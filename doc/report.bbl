@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+
+\bibitem{coleman1998clustering}
+Cole Coleman and Peter Sklar.
+\newblock Clustering user interface, August~4 1998.
+\newblock US Patent 5,790,121.
+
+\bibitem{nath2006sensormap}
+Suman Nath, Jie Liu, Jessica Miller, Feng Zhao, and Andre Santanche.
+\newblock Sensormap: a web site for sensors world-wide.
+\newblock In {\em Proceedings of the 4th international conference on Embedded
+  networked sensor systems}, pages 373--374. ACM, 2006.
+
+\end{thebibliography}
