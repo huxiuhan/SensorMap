@@ -4,9 +4,7 @@ README
 Author
 ——-
 
-Xiuhan Hu (xh2234)
-xh2234@columbia.edu
-
+Xiuhan Hu
 
 
 Files
@@ -24,6 +22,12 @@ test_server.js: a node.js http server for serving static files.
 
 To Use
 ----
+
+Install dependencies:
+
+```
+npm install
+```
 
 Start the server by running `test_server.js`:
 
