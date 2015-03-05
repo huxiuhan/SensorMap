@@ -1,10 +1,14 @@
 README
 ====
 
-Author
-——-
-
-Xiuhan Hu
+The goal of the project, Sensor Overlay for Google Maps, is to find a way
+to display information from the sensors as an overlay on Google Maps. The
+map view should be updated in real-time and work without user intervention
+most of time. There are innumerable kinds of sensors in real world, so the user
+should be able to customize the appearance according to the state of sensors.
+Another problem is that if there are too many sensors in a narrow space, the
+map view will be too crowded to be readable, unless we can cluster the sensors
+in a reasonable way.
 
 
 Files
@@ -37,3 +41,8 @@ node test_server.js
 
 Browse to http://0.0.0.0:8080/map.html to see it fires.
 
+
+Author
+——-
+
+Xiuhan Hu
